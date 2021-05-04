@@ -1,6 +1,6 @@
 # flutter_app_login_firebase
 
-A new Flutter application.
+A new Flutter application. training . create a simple page with anonymous and email/password connection with firebase
 
 ## Getting Started
 
